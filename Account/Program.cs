@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-decimal balanceAccount = 0;
+﻿decimal balanceAccount = 0;
 
 
 
